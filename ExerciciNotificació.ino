@@ -34,7 +34,6 @@ void setup() {
 }
 
 void loop() {
-  
 }
 
 void startA(void *pvParameters)
