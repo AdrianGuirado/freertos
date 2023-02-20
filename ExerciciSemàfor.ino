@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <semphr.h>
 
-
 // Prototipo de la tarea
 int segons = 0;
 void startA(void *pvParameters);
@@ -36,7 +35,6 @@ void setup() {
 }
 
 void loop() {
-  
 }
 
 void startA(void *pvParameters)
